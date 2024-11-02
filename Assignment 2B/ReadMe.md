@@ -1,0 +1,1 @@
+I have done the assignment in colab/kaggle. I have done the assignment in pytorch and scikit learn. I first used Lightning but AUROC metrics were not getting returned. Instead I have used pytroch and defined everything using it.
